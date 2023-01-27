@@ -7,7 +7,7 @@ Outspot is an e-commerce flashdeal webshop that does a lot of its marketing by s
 In `data.csv` you will find some open data of 1000 of our users. It is structured in 2 columns giving the `user_id` and `opened` representing the times a user has opened the mails.
 
 
-## Example input
+### Example input
 | user_id  | opened                         |
 |----------|--------------------------------|
 | 74819875 | 2022-03-18 15:28:01.000000 UTC |
@@ -28,19 +28,19 @@ Provide a python script that based on the data provided gives some info for each
 Analyze the data and perform a cohort analysis on the data. Analyze the retention rate over the months for new users each quarter (first open that quarter). You can use any tool for this.
 
 
-# Questions
+## Questions
 
 
-## What other things could we do to optimize our mailing?
+### What other things could we do to optimize our mailing?
 
 
-## What is the problem that we may have here because we base our data on the historic data that sends mails at these fixed times, and how can we fix this?
+### What is the problem that we may have here because we base our data on the historic data that sends mails at these fixed times, and how can we fix this?
 
 
-## What would have been great data to add to your cohort analysis and why?
+### What would have been great data to add to your cohort analysis and why?
 
 
-# Deliverables
+## Deliverables
 
 
 Deliver a csv `results.csv` with the results in the following columns
