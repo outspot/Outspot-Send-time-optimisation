@@ -25,8 +25,7 @@ Provide a python script that based on the data provided gives some info for each
 *note: we know that for a predictive model / neural network this is a very small dataset but you can assume we have millions of opens (because we do). For the exercises the method is more important than the result, so you can really show off what level of expertise you have even if it is overkill for this use case / data size.*
 
 
-Analyze the data and perform a cohort analysis on the data. Analyze the retention rate over the months for new users each quarter (first open that quarter). You can use any tool for this.
-
+Analyze the data and perform a cohort analysis on the data. Analyze the retention rate over the months for new users (with first open that month). You can use any tool for this.
 
 ## Questions
 
