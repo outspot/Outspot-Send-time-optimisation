@@ -19,7 +19,7 @@ In `data.csv` you will find some open data of 1000 of our users. It is structure
 Provide a python script that based on the data provided gives some info for each user, you can choose one of the following that suits you best or solve both problems, but that is optional:
 
 - The top 3 best send-times of the week for the user.
-- A prediction for the next time the user will open an email. given the data is extracted at *26/01/2023* predict when the next open of the user was after this date.
+- A prediction for the next time the user will open an email. given the data is extracted at *06/02/2023* predict when the next open of the user was after this date.
 
 
 *note: we know that for a predictive model / neural network this is a very small dataset but you can assume we have millions of opens (because we do). For the exercises the method is more important than the result, so you can really show off what level of expertise you have even if it is overkill for this use case / data size.*
